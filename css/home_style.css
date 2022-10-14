@@ -201,7 +201,7 @@ button{
     transform: scale(1.2);
   }
   /* .list li#item-1{
-    list-style-image: url("/images/calendar-outline.svg");
+    list-style-image: url(/images/calendar-outline.svg);
 
   } */
 
